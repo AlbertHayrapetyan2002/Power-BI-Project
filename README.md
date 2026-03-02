@@ -113,7 +113,7 @@ This is my Power BI educational project
 ## 👨‍💻 Автор
 
 Albert Hayrapetyan  
-Tach Stack Data Analyst | SQL | Power BI | Business Analytics  
+Tech stacks - Data Analyst | SQL | Power BI | Business Analytics  
 
 ---
 
