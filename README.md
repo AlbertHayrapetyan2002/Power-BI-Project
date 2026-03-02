@@ -34,11 +34,11 @@ This is my Power BI educational project
 
 ## 🗂️ Структура модели данных
 
-### Фактовые таблицы:
+### Fact Table:
 - `Transactions`
 - `Returns`
 
-### Измерения:
+### Dim Tables:
 - `Calendar`
 - `Products`
 - `Stores`
